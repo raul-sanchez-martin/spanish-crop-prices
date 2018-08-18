@@ -1,0 +1,5 @@
+jupyterlab
+requests
+beautifulsoup4
+numpy==1.14.5
+pandas
