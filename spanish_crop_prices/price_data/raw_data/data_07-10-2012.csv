@@ -1,0 +1,114 @@
+Producto,Categoría,Anterior,Último,Diferencia,Medida,Tendencia,Fecha
+Cereales,Trigo panificable,"251,00","251,00","0,00",Eur / Tm.,,08-10-2012
+Cereales,Cebada,"235,00","235,00","0,00",Eur / Tm.,,08-10-2012
+Cereales,Trigo pienso,"249,00","249,00","0,00",Eur / Tm.,,08-10-2012
+Cereales,Avena,"239,00","239,00","0,00",Eur / Tm.,,08-10-2012
+Cereales,Centeno,"235,00","235,00","0,00",Eur / Tm.,,08-10-2012
+Cereales,Maíz,"246,00","243,00","-3,00",Eur / Tm.,,08-10-2012
+Leguminosas,Garbanzo pedrosillano,"740,00","740,00","0,00",Eur / Tm.,,08-10-2012
+Leguminosas,Lenteja de Salamanca,"1070,00","1070,00","0,00",Eur / Tm.,,08-10-2012
+Leguminosas,Lenteja armuña D.O.,"1270,00","1270,00","0,00",Eur / Tm.,,08-10-2012
+Oleaginosas,Girasol,"532,00","514,00","-18,00",Eur / Tm.,,08-10-2012
+Forrajes,Forrajes (Avena),"0,00","0,00","0,00",Eur / Tm.,,08-10-2012
+Forrajes,Alfalfa empacada,"191,00","0,00","-191,00",Eur / Tm.,,08-10-2012
+Forrajes,Veza henificada,"0,00","0,00","0,00",Eur / Tm.,,08-10-2012
+Forrajes,Paja paquete pequeño,"52,00","52,00","0,00",Eur / Tm.,,08-10-2012
+Forrajes,Paja paquete grande,"49,00","49,00","0,00",Eur / Tm.,,08-10-2012
+Lechazo,Extra,"6,20","6,20","0,00",Eur / Kg. Vivo,,08-10-2012
+Lechazo,Hasta 11 Kg,"5,35","5,35","0,00",Eur / Kg. Vivo,,08-10-2012
+Lechazo,"11,01 a 13 KG.","4,89","4,89","0,00",Eur / Kg. Vivo,,08-10-2012
+Lechazo,"13,01 a 15 KG.","4,50","4,50","0,00",Eur / Kg. Vivo,,08-10-2012
+Cordero,"15,01 a 19 KG.","3,65","3,65","0,00",Eur / Kg. Vivo,,08-10-2012
+Cordero,"19,01 a 23 KG.","3,31","3,31","0,00",Eur / Kg. Vivo,,08-10-2012
+Cordero,"23,01 a 25,49 KG.","3,20","3,20","0,00",Eur / Kg. Vivo,,08-10-2012
+Cordero,"25,5 a 28 KG.","3,10","3,10","0,00",Eur / Kg. Vivo,,08-10-2012
+Cordero,"28,01 a 34 KG.","2,80","2,80","0,00",Eur / Kg. Vivo,,08-10-2012
+Porcino blanco,Selecto,"1,51 / 1,52","1,51 / 1,52","0,00",Eur / Kg. Vivo,,08-10-2012
+Oveja,Sacrificio,"7,00 / 25,00","7,00 / 25,00","0,00",Eur / Unidad,,08-10-2012
+Porcino blanco,Normal,"1,50 / 1,51","1,50 / 1,51","0,00",Eur / Kg. Vivo,,08-10-2012
+Oveja,Vida,"49,00 / 61,00","49,00 / 61,00","0,00",Eur / Unidad,,08-10-2012
+Porcino blanco,Graso,"1,46 / 1,47","1,46 / 1,47","0,00",Eur / Kg. Vivo,,08-10-2012
+Porcino blanco,Cerdas,"0,87 / 0,90","0,88 / 0,91","0,01",Eur / Kg. Vivo,,08-10-2012
+Lechón,Selecto,"47,00","48,00","1,00",Eur / Unidad,,08-10-2012
+Tostón, 4 A 6 Kg,"23,00","24,00","1,00",Eur / Unidad,,08-10-2012
+Tostón,"6,01 A 8 Kg","25,00","26,00","1,00",Eur / Unidad,,08-10-2012
+Porcino Ibérico,Bellota 160-170 Kg,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,08-10-2012
+Porcino Ibérico,Recebo 160-170 Kg,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,08-10-2012
+Porcino Ibérico,Pienso 150 Kg,"1,67 / 1,73","1,67 / 1,73","0,00",Eur / Kg. Vivo,,08-10-2012
+Porcino Ibérico,Pienso 150 Kg extensivo,"1,73 / 1,79","1,73 / 1,79","0,00",Eur / Kg. Vivo,,08-10-2012
+Porcino Ibérico,Lechones Hasta 23 Kg,"2,26 / 2,38","2,33 / 2,45","0,07",Eur / Kg. Vivo,,08-10-2012
+Porcino Ibérico,Marranos 30 - 60 Kg,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,08-10-2012
+Porcino Ibérico,Primales,"1,75 / 1,90","1,75 / 1,90","0,00",Eur / Kg. Vivo,,08-10-2012
+Porcino Ibérico,Tostones 5 - 7 Kg,"18,00 / 20,00","19,00 / 21,00","1,00",Eur / Kg. Vivo,,08-10-2012
+Ternero cruzado,Extra macho,"2,72","2,72","0,00",Eur / Kg. Vivo,,08-10-2012
+Ternero cruzado,Extra hembra,"1,99","2,02","0,03",Eur / Kg. Vivo,,08-10-2012
+Ternero cruzado,Primera macho,"2,53","2,53","0,00",Eur / Kg. Vivo,,08-10-2012
+Porcino Ibérico,Reproductoras,"140,00 / 195,00","140,00 / 195,00","0,00",Eur / Kg. Vivo,,08-10-2012
+Ternero cruzado,Primera hembra,"1,90","1,93","0,03",Eur / Kg. Vivo,,08-10-2012
+Ternero cruzado,Segunda macho,"2,11","2,11","0,00",Eur / Kg. Vivo,,08-10-2012
+Ternero cruzado,Segunda hembra,"1,52","1,55","0,03",Eur / Kg. Vivo,,08-10-2012
+Ternero del país,Macho,"1,59","1,59","0,00",Eur / Kg. Vivo,,08-10-2012
+Ternero del país,Hembra,"0,00","0,00","0,00",Eur / Kg. Vivo,,08-10-2012
+Bovino menor 12 meses,Especial macho,"4,13","4,13","0,00",Eur / Kg. Canal,,08-10-2012
+Bovino menor 12 meses,Especial hembra  de 180 a 220 Kg.,"4,17","4,17","0,00",Eur / Kg. Canal,,08-10-2012
+Bovino menor 12 meses,Extra macho,"4,07","4,07","0,00",Eur / Kg. Canal,,08-10-2012
+Bovino menor 12 meses,Extra hembra   de 180 a 220 Kg.,"4,11","4,11","0,00",Eur / Kg. Canal,,08-10-2012
+Bovino menor 12 meses,Primera macho ,"3,89","3,89","0,00",Eur / Kg. Canal,,08-10-2012
+Bovino menor 12 meses,Primera hembra   de 180 a 220 Kg.,"4,02","4,02","0,00",Eur / Kg. Canal,,08-10-2012
+Bovino menor 12 meses,Segunda macho,"3,60","3,60","0,00",Eur / Kg. Canal,,08-10-2012
+Bovino menor 12 meses,Segunda hembra  de 180 a 220 Kg.,"3,93","3,93","0,00",Eur / Kg. Canal,,08-10-2012
+Ternera mayor 12 meses,Especial menor 270 Kg,"4,06","4,06","0,00",Eur / Kg. Canal,,08-10-2012
+Ternera mayor 12 meses,Especial mayor 270 Kg,"3,97","3,97","0,00",Eur / Kg. Canal,,08-10-2012
+Ternera mayor 12 meses,Extra menor  270 Kg,"4,03","4,03","0,00",Eur / Kg. Canal,,08-10-2012
+Ternera mayor 12 meses,Extra mayor 270 Kg,"3,91","3,91","0,00",Eur / Kg. Canal,,08-10-2012
+Ternera mayor 12 meses,Primera menor 270 Kg,"3,94","3,94","0,00",Eur / Kg. Canal,,08-10-2012
+Ternera mayor 12 meses,Primera mayor  270 Kg,"3,82","3,82","0,00",Eur / Kg. Canal,,08-10-2012
+Ternera mayor 12 meses,Segunda menor 270 Kg,"3,76","3,76","0,00",Eur / Kg. Canal,,08-10-2012
+Ternera mayor 12 meses,segunda mayor  270 Kg,"3,64","3,64","0,00",Eur / Kg. Canal,,08-10-2012
+Añojo,Especial menor 350 Kg,"4,02","4,02","0,00",Eur / Kg. Canal,,08-10-2012
+Añojo,Especial mayor 350 Kg,"3,96","3,96","0,00",Eur / Kg. Canal,,08-10-2012
+Añojo,Extra menor 350 Kg,"3,96","3,96","0,00",Eur / Kg. Canal,,08-10-2012
+Añojo,Extra mayor 350 Kg,"3,90","3,90","0,00",Eur / Kg. Canal,,08-10-2012
+Añojo,Primera menor 350 Kg,"3,84","3,84","0,00",Eur / Kg. Canal,,08-10-2012
+Añojo,Primera mayor 350 Kg,"3,74","3,74","0,00",Eur / Kg. Canal,,08-10-2012
+Añojo,Segunda menor 350 Kg,"3,59","3,59","0,00",Eur / Kg. Canal,,08-10-2012
+Añojo,Segunda mayor 350 Kg,"3,56","3,56","0,00",Eur / Kg. Canal,,08-10-2012
+Erales,Extra,"2,91","2,91","0,00",Eur / Kg. Canal,,08-10-2012
+Erales,Primera,"2,36","2,36","0,00",Eur / Kg. Canal,,08-10-2012
+Erales,Segunda,"1,88","1,88","0,00",Eur / Kg. Canal,,08-10-2012
+Novillos,Extra,"2,55","2,55","0,00",Eur / Kg. Canal,,08-10-2012
+Novillos,Primera,"2,25","2,25","0,00",Eur / Kg. Canal,,08-10-2012
+Novillos,Segunda,"1,76","1,76","0,00",Eur / Kg. Canal,,08-10-2012
+Toro,Extra,"2,49","2,49","0,00",Eur / Kg. Canal,,08-10-2012
+Toro,Primera,"2,13","2,13","0,00",Eur / Kg. Canal,,08-10-2012
+Toro,Segunda,"1,85","1,85","0,00",Eur / Kg. Canal,,08-10-2012
+Vaca,Extra,"3,07","3,07","0,00",Eur / Kg. Canal,,08-10-2012
+Vaca,Primera,"2,82","2,82","0,00",Eur / Kg. Canal,,08-10-2012
+Vaca,Segunda,"2,49","2,49","0,00",Eur / Kg. Canal,,08-10-2012
+Vaca,Tercera,"2,22","2,22","0,00",Eur / Kg. Canal,,08-10-2012
+Vaca,Fábrica,"1,95","1,95","0,00",Eur / Kg. Canal,,08-10-2012
+Variedades,Jaerla,"175,00","175,00","0,00",Eur / Tm.,,08-10-2012
+Variedades,Agria,"180,00","180,00","0,00",Eur / Tm.,,08-10-2012
+Variedades,Asterix,"150,00","155,00","5,00",Eur / Tm.,,08-10-2012
+Variedades,"Fabula, Marfona","0,00","0,00","0,00",Eur / Tm.,,08-10-2012
+Variedades,Spunta,"0,00","0,00","0,00",Eur / Tm.,,08-10-2012
+Jamón Ibérico en Sangre,D. O. Guijuelo,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,08-10-2012
+Variedades,Red Pontiac,"0,00","0,00","0,00",Eur / Tm.,,08-10-2012
+Jamón Ibérico en Sangre,Bellota,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,08-10-2012
+Jamón Ibérico en Sangre,Cebo,"4,10 / 4,28","4,25 / 4,43","0,15",Eur / Kg.,,08-10-2012
+Paleta Ibérica en Sangre,D. O. Guijuelo,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,08-10-2012
+Paleta Ibérica en Sangre,Bellota,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,08-10-2012
+Paleta Ibérica en Sangre,Cebo,"3,19 / 3,34","3,22 / 3,37","0,03",Eur / Kg.,,08-10-2012
+Magros,Extra,"3,30 / 3,40","3,40 / 3,50","0,10",Eur / Kg.,,08-10-2012
+Magros,Presa,"10,38 / 10,88","10,50 / 11,00","0,12",Eur / Kg.,,08-10-2012
+Magros,Secreto,"6,31 / 6,76","6,43 / 6,88","0,12",Eur / Kg.,,08-10-2012
+Magros,Solomillo,"7,83 / 8,33","7,83 / 8,33","0,00",Eur / Kg.,,08-10-2012
+Magros,Pluma de lomo,"8,67 / 9,17","8,82 / 9,37","0,15",Eur / Kg.,,08-10-2012
+Despiece,Recorte Graso,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,08-10-2012
+Despiece,Lomo Bellota,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,08-10-2012
+Despiece,Lomo Cebo,"7,21 / 7,28","7,21 / 7,28","0,00",Eur / Kg.,,08-10-2012
+Despiece,Panceta a cuadro,"1,45 / 1,55","1,50 / 1,60","0,05",Eur / Kg.,,08-10-2012
+Despiece,Tocino de Lomo,"1,42 / 1,52","1,40 / 1,50","-0,02",Eur / Kg.,,08-10-2012
+Despiece,Costillas (Peladas),"0,91 / 1,01","0,91 / 1,01","0,00",Eur / Kg.,,08-10-2012
+Despiece,Grasas Industriales,"0,55 / 0,60","0,55 / 0,60","0,00",Eur / Kg.,,08-10-2012
+Despiece,Cabeza,"0,34 / 0,36","0,34 / 0,36","0,00",Eur / Kg.,,08-10-2012

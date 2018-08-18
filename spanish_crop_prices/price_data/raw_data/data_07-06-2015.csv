@@ -1,0 +1,115 @@
+Producto,Categoría,Anterior,Último,Diferencia,Medida,Tendencia,Fecha
+Cereales,Trigo panificable,"186,00","187,00","1,00",Eur / Tm.,,08-06-2015
+Cereales,Trigo pienso,"181,00","182,00","1,00",Eur / Tm.,,08-06-2015
+Cereales,Cebada,"175,00","176,00","1,00",Eur / Tm.,,08-06-2015
+Cereales,Avena,"0,00","0,00","0,00",Eur / Tm.,,08-06-2015
+Cereales,Centeno,"0,00","0,00","0,00",Eur / Tm.,,08-06-2015
+Cereales,Maíz,"169,00","170,00","1,00",Eur / Tm.,,08-06-2015
+Leguminosas,Garbanzo pedrosillano,"0,00","0,00","0,00",Eur / Tm.,,08-06-2015
+Leguminosas,Lenteja de Salamanca,"0,00","0,00","0,00",Eur / Tm.,,08-06-2015
+Leguminosas,Lenteja armuña D.O.,"0,00","0,00","0,00",Eur / Tm.,,08-06-2015
+Oleaginosas,Girasol,"0,00","0,00","0,00",Eur / Tm.,,08-06-2015
+Oleaginosas,Colza,"0,00","0,00","0,00",Eur / Tm.,,08-06-2015
+Forrajes,Forrajes (Avena),"100,00","100,00","0,00",Eur / Tm.,,08-06-2015
+Oleaginosas,Guisantes,"0,00","0,00","0,00",Eur / Tm.,,08-06-2015
+Forrajes,Alfalfa empacada,"180,00","186,00","6,00",Eur / Tm.,,08-06-2015
+Forrajes,Veza henificada,"123,00","129,00","6,00",Eur / Tm.,,08-06-2015
+Forrajes,Paja paquete pequeño,"0,00","0,00","0,00",Eur / Tm.,,08-06-2015
+Forrajes,Paja paquete grande,"42,00","42,00","0,00",Eur / Tm.,,08-06-2015
+Lechazo,Extra,"4,65","4,80","0,15",Eur / Kg. Vivo,,08-06-2015
+Lechazo,Hasta 11 Kg,"4,20","4,35","0,15",Eur / Kg. Vivo,,08-06-2015
+Lechazo,"11,01 a 13 KG.","4,00","4,15","0,15",Eur / Kg. Vivo,,08-06-2015
+Lechazo,"13,01 a 15 KG.","3,65","3,80","0,15",Eur / Kg. Vivo,,08-06-2015
+Cordero,"15,01 a 19 KG.","2,75","2,75","0,00",Eur / Kg. Vivo,,08-06-2015
+Cordero,"19,01 a 23 KG.","2,31","2,31","0,00",Eur / Kg. Vivo,,08-06-2015
+Cordero,"23,01 a 25,49 KG.","2,30","2,30","0,00",Eur / Kg. Vivo,,08-06-2015
+Cordero,"25,5 a 28 KG.","2,15","2,15","0,00",Eur / Kg. Vivo,,08-06-2015
+Cordero,"28,01 a 34 KG.","2,05","2,05","0,00",Eur / Kg. Vivo,,08-06-2015
+Oveja,Sacrificio,"10,00 / 35,00","10,00 / 35,00","0,00",Eur / Unidad,,08-06-2015
+Porcino blanco,Selecto,"1,21 / 1,22","1,24 / 1,25","0,03",Eur / Kg. Vivo,,08-06-2015
+Oveja,Vida,"55,00 / 75,00","55,00 / 75,00","0,00",Eur / Unidad,,08-06-2015
+Porcino blanco,Normal,"1,20 / 1,21","1,23 / 1,24","0,03",Eur / Kg. Vivo,,08-06-2015
+Porcino blanco,Graso,"1,16 / 1,17","1,19 / 1,20","0,03",Eur / Kg. Vivo,,08-06-2015
+Porcino blanco,Cerdas,"0,53 / 0,56","0,54 / 0,57","0,01",Eur / Kg. Vivo,,08-06-2015
+Lechón,Selecto,"45,00","44,00","-1,00",Eur / Unidad,,08-06-2015
+Tostón, 4 A 6 Kg,"22,00","22,00","0,00",Eur / Unidad,,08-06-2015
+Tostón,"6,01 A 8 Kg","24,00","24,00","0,00",Eur / Unidad,,08-06-2015
+Porcino Ibérico,Bellota 50% IB,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,08-06-2015
+Porcino Ibérico,Recebo,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,08-06-2015
+Porcino Ibérico,Cebo de campo,"2,03 / 2,09","2,00 / 2,06","-0,03",Eur / Kg. Vivo,,08-06-2015
+Porcino Ibérico,Cebo,"1,95 / 2,01","1,92 / 1,98","-0,03",Eur / Kg. Vivo,,08-06-2015
+Porcino Ibérico,Lechones hasta 23 Kg (Gran partida),"3,03 / 3,15","2,88 / 3,00","-0,15",Eur / Kg. Vivo,,08-06-2015
+Porcino Ibérico,Lechones hasta 23 kg (Recogida),"2,70 / 2,82","2,55 / 2,67","-0,15",Eur / Kg. Vivo,,08-06-2015
+Porcino Ibérico,Marranos 30 - 60 Kg,"2,27 / 2,62","2,24 / 2,59","-0,03",Eur / Kg. Vivo,,08-06-2015
+Porcino Ibérico,Primales,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,08-06-2015
+Ternero cruzado,Extra macho,"0,00","0,00","0,00",Eur / Kg. Vivo,,08-06-2015
+Ternero cruzado,Extra hembra,"0,00","0,00","0,00",Eur / Kg. Vivo,,08-06-2015
+Ternero cruzado,Primera macho,"2,99","2,99","0,00",Eur / Kg. Vivo,,08-06-2015
+Porcino Ibérico,Tostones (5 - 8 Kg),"16,00 / 18,00","16,00 / 18,00","0,00",Eur / Unidad,,08-06-2015
+Ternero cruzado,Primera hembra,"2,29","2,29","0,00",Eur / Kg. Vivo,,08-06-2015
+Porcino Ibérico,Tostones (9 - 12 Kg),"19,00 / 24,00","19,00 / 24,00","0,00",Eur / Unidad,,08-06-2015
+Ternero cruzado,Segunda macho,"2,47","2,47","0,00",Eur / Kg. Vivo,,08-06-2015
+Porcino Ibérico,Reproductoras < de 6 meses,"240,00 / 290,00","240,00 / 290,00","0,00",Eur / Unidad,,08-06-2015
+Ternero cruzado,Segunda hembra,"2,11","2,11","0,00",Eur / Kg. Vivo,,08-06-2015
+Porcino Ibérico,Reproductoras > de 6 meses,"395,00 / 445,00","395,00 / 445,00","0,00",Eur / Unidad,,08-06-2015
+Ternero del país,Macho,"1,56","1,56","0,00",Eur / Kg. Vivo,,08-06-2015
+Ternero del país,Hembra,"0,00","0,00","0,00",Eur / Kg. Vivo,,08-06-2015
+Bovino menor 12 meses,Especial macho,"3,89","3,89","0,00",Eur / Kg. Canal,,08-06-2015
+Bovino menor 12 meses,Especial hembra  de 180 a 220 Kg.,"3,96","3,96","0,00",Eur / Kg. Canal,,08-06-2015
+Bovino menor 12 meses,Extra macho,"3,83","3,83","0,00",Eur / Kg. Canal,,08-06-2015
+Bovino menor 12 meses,Extra hembra   de 180 a 220 Kg.,"3,90","3,90","0,00",Eur / Kg. Canal,,08-06-2015
+Bovino menor 12 meses,Primera macho ,"3,62","3,62","0,00",Eur / Kg. Canal,,08-06-2015
+Bovino menor 12 meses,Primera hembra   de 180 a 220 Kg.,"3,81","3,81","0,00",Eur / Kg. Canal,,08-06-2015
+Bovino menor 12 meses,Segunda macho,"3,33","3,33","0,00",Eur / Kg. Canal,,08-06-2015
+Bovino menor 12 meses,Segunda hembra  de 180 a 220 Kg.,"3,72","3,72","0,00",Eur / Kg. Canal,,08-06-2015
+Ternera mayor 12 meses,Especial menor 270 Kg,"3,82","3,82","0,00",Eur / Kg. Canal,,08-06-2015
+Ternera mayor 12 meses,Especial mayor 270 Kg,"3,73","3,73","0,00",Eur / Kg. Canal,,08-06-2015
+Ternera mayor 12 meses,Extra menor  270 Kg,"3,79","3,79","0,00",Eur / Kg. Canal,,08-06-2015
+Ternera mayor 12 meses,Extra mayor 270 Kg,"3,67","3,67","0,00",Eur / Kg. Canal,,08-06-2015
+Ternera mayor 12 meses,Primera menor 270 Kg,"3,70","3,70","0,00",Eur / Kg. Canal,,08-06-2015
+Ternera mayor 12 meses,Primera mayor  270 Kg,"3,58","3,58","0,00",Eur / Kg. Canal,,08-06-2015
+Ternera mayor 12 meses,Segunda menor 270 Kg,"3,52","3,52","0,00",Eur / Kg. Canal,,08-06-2015
+Ternera mayor 12 meses,segunda mayor  270 Kg,"3,40","3,40","0,00",Eur / Kg. Canal,,08-06-2015
+Añojo,Especial menor 350 Kg,"3,75","3,75","0,00",Eur / Kg. Canal,,08-06-2015
+Añojo,Especial mayor 350 Kg,"3,63","3,63","0,00",Eur / Kg. Canal,,08-06-2015
+Añojo,Extra menor 350 Kg,"3,69","3,69","0,00",Eur / Kg. Canal,,08-06-2015
+Añojo,Extra mayor 350 Kg,"3,57","3,57","0,00",Eur / Kg. Canal,,08-06-2015
+Añojo,Primera menor 350 Kg,"3,54","3,54","0,00",Eur / Kg. Canal,,08-06-2015
+Añojo,Primera mayor 350 Kg,"3,38","3,38","0,00",Eur / Kg. Canal,,08-06-2015
+Añojo,Segunda menor 350 Kg,"3,29","3,29","0,00",Eur / Kg. Canal,,08-06-2015
+Añojo,Segunda mayor 350 Kg,"3,20","3,20","0,00",Eur / Kg. Canal,,08-06-2015
+Erales,Extra,"2,52","2,52","0,00",Eur / Kg. Canal,,08-06-2015
+Erales,Primera,"1,97","1,97","0,00",Eur / Kg. Canal,,08-06-2015
+Erales,Segunda,"1,46","1,46","0,00",Eur / Kg. Canal,,08-06-2015
+Novillos,Extra,"2,16","2,16","0,00",Eur / Kg. Canal,,08-06-2015
+Novillos,Primera,"1,86","1,86","0,00",Eur / Kg. Canal,,08-06-2015
+Novillos,Segunda,"1,34","1,34","0,00",Eur / Kg. Canal,,08-06-2015
+Toro,Extra,"2,19","2,19","0,00",Eur / Kg. Canal,,08-06-2015
+Toro,Primera,"1,80","1,80","0,00",Eur / Kg. Canal,,08-06-2015
+Toro,Segunda,"1,52","1,52","0,00",Eur / Kg. Canal,,08-06-2015
+Vaca,Extra,"3,13","3,13","0,00",Eur / Kg. Canal,,08-06-2015
+Vaca,Primera,"2,58","2,58","0,00",Eur / Kg. Canal,,08-06-2015
+Vaca,Segunda,"2,10","2,10","0,00",Eur / Kg. Canal,,08-06-2015
+Vaca,Tercera,"1,83","1,83","0,00",Eur / Kg. Canal,,08-06-2015
+Vaca,Fábrica,"1,53","1,53","0,00",Eur / Kg. Canal,,08-06-2015
+Jamón Ibérico en Sangre,Bellota 100% IB,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,08-06-2015
+Jamón Ibérico en Sangre,Cebo de campo,"6,48 / 6,98","6,43 / 6,93","-0,05",Eur / Kg.,,08-06-2015
+Jamón Ibérico en Sangre,Cebo,"5,86 / 6,04","5,81 / 5,99","-0,05",Eur / Kg.,,08-06-2015
+Paleta Ibérica en Sangre,Bellota 100 % IB,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,08-06-2015
+Paleta Ibérica en Sangre,Cebo de campo,"4,28 / 4,63","4,28 / 4,63","0,00",Eur / Kg.,,08-06-2015
+Paleta Ibérica en Sangre,Cebo,"4,23 / 4,38","4,23 / 4,38","0,00",Eur / Kg.,,08-06-2015
+Magros,Magro de Bellota,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,08-06-2015
+Magros,Extra,"1,80 / 1,90","1,70 / 1,80","-0,10",Eur / Kg.,,08-06-2015
+Magros,Presa,"11,45 / 11,95","11,45 / 11,95","0,00",Eur / Kg.,,08-06-2015
+Magros,Secreto,"9,00 / 9,45","8,95 / 9,40","-0,05",Eur / Kg.,,08-06-2015
+Magros,Barriguera,"2,39 / 2,59","2,29 / 2,49","-0,10",Eur / Kg.,,08-06-2015
+Magros,Solomillo,"8,20 / 8,70","8,20 / 8,70","0,00",Eur / Kg.,,08-06-2015
+Magros,Pluma de lomo,"10,70 / 11,00","10,62 / 10,92","-0,08",Eur / Kg.,,08-06-2015
+Magros,Carrillera,"4,80 / 5,00","4,80 / 5,00","0,00",Eur / Kg.,,08-06-2015
+Despiece,Lomo Bellota,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,08-06-2015
+Despiece,Lomo Cebo,"8,65 / 8,85","8,60 / 8,80","-0,05",Eur / Kg.,,08-06-2015
+Despiece,Panceta a cuadro,"0,90 / 1,00","0,85 / 0,95","-0,05",Eur / Kg.,,08-06-2015
+Despiece,Tocino de Lomo,"0,50 / 0,60","0,50 / 0,60","0,00",Eur / Kg.,,08-06-2015
+Despiece,Costillas (Peladas),"0,50 / 0,60","0,50 / 0,60","0,00",Eur / Kg.,,08-06-2015
+Despiece,Grasas Industriales,"0,29 / 0,34","0,29 / 0,34","0,00",Eur / Kg.,,08-06-2015
+Despiece,Cabeza,"0,23 / 0,25","0,21 / 0,23","-0,02",Eur / Kg.,,08-06-2015

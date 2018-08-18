@@ -1,0 +1,88 @@
+Producto,Categoría,Anterior,Último,Diferencia,Medida,Tendencia,Fecha
+Cereales,Trigo panificable,"176,00","175,00","-1,00",Eur / Tm.,,02-04-2007
+Cereales,Trigo pienso,"171,00","175,00","4,00",Eur / Tm.,,02-04-2007
+Cereales,Cebada,"154,00","154,00","0,00",Eur / Tm.,,02-04-2007
+Cereales,Avena,"138,00","138,00","0,00",Eur / Tm.,,02-04-2007
+Cereales,Centeno,"155,00","155,00","0,00",Eur / Tm.,,02-04-2007
+Cereales,Maíz,"174,00","174,00","0,00",Eur / Tm.,,02-04-2007
+Leguminosas,Garbanzo pedrosillano,"700,00","700,00","0,00",Eur / Tm.,,02-04-2007
+Leguminosas,Lenteja de Salamanca,"1230,00","1230,00","0,00",Eur / Tm.,,02-04-2007
+Leguminosas,Lenteja armuña D.O.,"1310,00","1310,00","0,00",Eur / Tm.,,02-04-2007
+Oleaginosas,Girasol,"0,00","0,00","0,00",Eur / Tm.,,02-04-2007
+Forrajes,Forrajes (Avena),"0,00","0,00","0,00",Eur / Tm.,,02-04-2007
+Forrajes,Alfalfa empacada,"0,00","0,00","0,00",Eur / Tm.,,02-04-2007
+Forrajes,Veza henificada,"0,00","0,00","0,00",Eur / Tm.,,02-04-2007
+Forrajes,Paja paquete pequeño,"0,00","0,00","0,00",Eur / Tm.,,02-04-2007
+Forrajes,Paja paquete grande,"40,00","40,00","0,00",Eur / Tm.,,02-04-2007
+Lechazo,Hasta 11 Kg,"3,10","3,10","0,00",Eur / Kg. Vivo,,02-04-2007
+Lechazo,"11,01 a 13 KG.","3,00","3,00","0,00",Eur / Kg. Vivo,,02-04-2007
+Lechazo,"13,01 a 15 KG.","2,65","2,65","0,00",Eur / Kg. Vivo,,02-04-2007
+Cordero,"15,01 a 19 KG.","2,55","2,55","0,00",Eur / Kg. Vivo,,02-04-2007
+Cordero,"19,01 a 23 KG.","2,35","2,35","0,00",Eur / Kg. Vivo,,02-04-2007
+Cordero,"23,01 a 25,49 KG.","2,20","2,20","0,00",Eur / Kg. Vivo,,02-04-2007
+Cordero,"25,5 a 28 KG.","2,10","2,10","0,00",Eur / Kg. Vivo,,02-04-2007
+Cordero,"28,01 a 34 KG.","1,95","1,95","0,00",Eur / Kg. Vivo,,02-04-2007
+Oveja,Sacrificio,"3,00 / 6,00","3,00 / 6,00","0,00",Eur / Unidad,,02-04-2007
+Porcino blanco,Selecto,"1,08 / 1,09","1,08 / 1,09","0,00",Eur / Kg. Vivo,,02-04-2007
+Oveja,Vida,"54,00 / 66,00","54,00 / 66,00","0,00",Eur / Unidad,,02-04-2007
+Porcino blanco,Normal,"1,07 / 1,08","1,07 / 1,08","0,00",Eur / Kg. Vivo,,02-04-2007
+Porcino blanco,Graso,"1,13 / 1,14","1,13 / 1,14","0,00",Eur / Kg. Vivo,,02-04-2007
+Porcino blanco,Cerdas,"0,58 / 0,61","0,57 / 0,60","-0,01",Eur / Kg. Vivo,,02-04-2007
+Lechón,Selecto,"43,00","40,00","-3,00",Eur / Unidad,,02-04-2007
+Tostón, 4 A 6 Kg,"23,50","23,00","-0,50",Eur / Unidad,,02-04-2007
+Tostón,"6,01 A 8 Kg","26,50","26,00","-0,50",Eur / Unidad,,02-04-2007
+Porcino Ibérico,Bellota 160-170 Kg,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,02-04-2007
+Porcino Ibérico,Recebo 160-170 Kg,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,02-04-2007
+Porcino Ibérico,Pienso 150 Kg,"1,68 / 1,74","1,66 / 1,72","-0,02",Eur / Kg. Vivo,,02-04-2007
+Porcino Ibérico,Pienso 150 Kg extensivo,"1,74 / 1,80","1,72 / 1,78","-0,02",Eur / Kg. Vivo,,02-04-2007
+Porcino Ibérico,Lechones Hasta 23 Kg,"3,76 / 3,88","3,76 / 3,88","0,00",Eur / Kg. Vivo,,02-04-2007
+Porcino Ibérico,Marranos 30 - 60 Kg,"2,57 / 2,69","2,57 / 2,69","0,00",Eur / Kg. Vivo,,02-04-2007
+Porcino Ibérico,Primales,"2,35 / 2,47","2,35 / 2,47","0,00",Eur / Kg. Vivo,,02-04-2007
+Porcino Ibérico,Tostones 5 - 7 Kg,"30,00 / 40,00","30,00 / 40,00","0,00",Eur / Kg. Vivo,,02-04-2007
+Ternero cruzado,Extra macho,"2,83","2,83","0,00",Eur / Kg. Vivo,,02-04-2007
+Ternero cruzado,Extra hembra,"2,31","2,31","0,00",Eur / Kg. Vivo,,02-04-2007
+Ternero cruzado,Primera macho,"2,70","2,70","0,00",Eur / Kg. Vivo,,02-04-2007
+Porcino Ibérico,Reproductoras,"220,00 / 340,00","220,00 / 340,00","0,00",Eur / Kg. Vivo,,02-04-2007
+Ternero cruzado,Primera hembra,"2,22","2,22","0,00",Eur / Kg. Vivo,,02-04-2007
+Ternero cruzado,Segunda macho,"2,21","2,21","0,00",Eur / Kg. Vivo,,02-04-2007
+Ternero cruzado,Segunda hembra,"1,84","1,84","0,00",Eur / Kg. Vivo,,02-04-2007
+Ternero del país,Macho,"1,34","1,34","0,00",Eur / Kg. Vivo,,02-04-2007
+Ternero del país,Hembra,"0,00","0,00","0,00",Eur / Kg. Vivo,,02-04-2007
+Bovino menor 12 meses,Especial macho,"3,84","3,84","0,00",Eur / Kg. Canal,,02-04-2007
+Bovino menor 12 meses,Especial hembra  de 180 a 220 Kg.,"4,02","4,02","0,00",Eur / Kg. Canal,,02-04-2007
+Bovino menor 12 meses,Extra macho,"3,78","3,78","0,00",Eur / Kg. Canal,,02-04-2007
+Bovino menor 12 meses,Extra hembra   de 180 a 220 Kg.,"3,96","3,96","0,00",Eur / Kg. Canal,,02-04-2007
+Bovino menor 12 meses,Primera macho ,"3,54","3,54","0,00",Eur / Kg. Canal,,02-04-2007
+Bovino menor 12 meses,Primera hembra   de 180 a 220 Kg.,"3,87","3,87","0,00",Eur / Kg. Canal,,02-04-2007
+Bovino menor 12 meses,Segunda macho,"3,31","3,31","0,00",Eur / Kg. Canal,,02-04-2007
+Bovino menor 12 meses,Segunda hembra  de 180 a 220 Kg.,"3,78","3,78","0,00",Eur / Kg. Canal,,02-04-2007
+Ternera mayor 12 meses,Especial menor 270 Kg,"3,94","3,94","0,00",Eur / Kg. Canal,,02-04-2007
+Ternera mayor 12 meses,Especial mayor 270 Kg,"3,91","3,91","0,00",Eur / Kg. Canal,,02-04-2007
+Ternera mayor 12 meses,Extra menor  270 Kg,"3,91","3,91","0,00",Eur / Kg. Canal,,02-04-2007
+Ternera mayor 12 meses,Extra mayor 270 Kg,"3,85","3,85","0,00",Eur / Kg. Canal,,02-04-2007
+Ternera mayor 12 meses,Primera menor 270 Kg,"3,82","3,82","0,00",Eur / Kg. Canal,,02-04-2007
+Ternera mayor 12 meses,Primera mayor  270 Kg,"3,76","3,76","0,00",Eur / Kg. Canal,,02-04-2007
+Ternera mayor 12 meses,Segunda menor 270 Kg,"3,64","3,64","0,00",Eur / Kg. Canal,,02-04-2007
+Ternera mayor 12 meses,segunda mayor  270 Kg,"3,58","3,58","0,00",Eur / Kg. Canal,,02-04-2007
+Añojo,Especial menor 350 Kg,"3,73","3,73","0,00",Eur / Kg. Canal,,02-04-2007
+Añojo,Especial mayor 350 Kg,"3,64","3,64","0,00",Eur / Kg. Canal,,02-04-2007
+Añojo,Extra menor 350 Kg,"3,67","3,67","0,00",Eur / Kg. Canal,,02-04-2007
+Añojo,Extra mayor 350 Kg,"3,58","3,58","0,00",Eur / Kg. Canal,,02-04-2007
+Añojo,Primera menor 350 Kg,"3,46","3,46","0,00",Eur / Kg. Canal,,02-04-2007
+Añojo,Primera mayor 350 Kg,"3,36","3,36","0,00",Eur / Kg. Canal,,02-04-2007
+Añojo,Segunda menor 350 Kg,"3,33","3,33","0,00",Eur / Kg. Canal,,02-04-2007
+Añojo,Segunda mayor 350 Kg,"3,24","3,24","0,00",Eur / Kg. Canal,,02-04-2007
+Erales,Extra,"2,98","2,98","0,00",Eur / Kg. Canal,,02-04-2007
+Erales,Primera,"2,31","2,31","0,00",Eur / Kg. Canal,,02-04-2007
+Erales,Segunda,"1,83","1,83","0,00",Eur / Kg. Canal,,02-04-2007
+Novillos,Extra,"2,82","2,82","0,00",Eur / Kg. Canal,,02-04-2007
+Novillos,Primera,"2,16","2,16","0,00",Eur / Kg. Canal,,02-04-2007
+Novillos,Segunda,"1,68","1,68","0,00",Eur / Kg. Canal,,02-04-2007
+Toro,Extra,"2,25","2,25","0,00",Eur / Kg. Canal,,02-04-2007
+Toro,Primera,"1,95","1,95","0,00",Eur / Kg. Canal,,02-04-2007
+Toro,Segunda,"1,83","1,83","0,00",Eur / Kg. Canal,,02-04-2007
+Vaca,Extra,"2,43","2,43","0,00",Eur / Kg. Canal,,02-04-2007
+Vaca,Primera,"2,13","2,13","0,00",Eur / Kg. Canal,,02-04-2007
+Vaca,Segunda,"1,80","1,80","0,00",Eur / Kg. Canal,,02-04-2007
+Vaca,Tercera,"1,56","1,56","0,00",Eur / Kg. Canal,,02-04-2007
+Vaca,Fábrica,"1,29","1,29","0,00",Eur / Kg. Canal,,02-04-2007

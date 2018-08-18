@@ -1,0 +1,107 @@
+Producto,Categoría,Anterior,Último,Diferencia,Medida,Tendencia,Fecha
+Cereales,Trigo panificable,"146,00","146,00","0,00",Eur / Tm.,,21-06-2010
+Cereales,Trigo pienso,"141,00","141,00","0,00",Eur / Tm.,,21-06-2010
+Cereales,Cebada,"121,00","121,00","0,00",Eur / Tm.,,21-06-2010
+Cereales,Avena,"122,00","122,00","0,00",Eur / Tm.,,21-06-2010
+Cereales,Centeno,"120,00","120,00","0,00",Eur / Tm.,,21-06-2010
+Cereales,Maíz,"162,00","162,00","0,00",Eur / Tm.,,21-06-2010
+Leguminosas,Garbanzo pedrosillano,"500,00","500,00","0,00",Eur / Tm.,,21-06-2010
+Leguminosas,Lenteja de Salamanca,"1030,00","1030,00","0,00",Eur / Tm.,,21-06-2010
+Leguminosas,Lenteja armuña D.O.,"1130,00","1130,00","0,00",Eur / Tm.,,21-06-2010
+Oleaginosas,Girasol,"0,00","0,00","0,00",Eur / Tm.,,21-06-2010
+Forrajes,Forrajes (Avena),"75,00","74,00","-1,00",Eur / Tm.,,21-06-2010
+Forrajes,Alfalfa empacada,"140,00","140,00","0,00",Eur / Tm.,,21-06-2010
+Forrajes,Veza henificada,"105,00","105,00","0,00",Eur / Tm.,,21-06-2010
+Forrajes,Paja paquete pequeño,"0,00","0,00","0,00",Eur / Tm.,,21-06-2010
+Forrajes,Paja paquete grande,"0,00","0,00","0,00",Eur / Tm.,,21-06-2010
+Lechazo,Hasta 11 Kg,"4,00","4,20","0,20",Eur / Kg. Vivo,,21-06-2010
+Lechazo,"11,01 a 13 KG.","3,85","4,05","0,20",Eur / Kg. Vivo,,21-06-2010
+Lechazo,"13,01 a 15 KG.","3,15","3,35","0,20",Eur / Kg. Vivo,,21-06-2010
+Cordero,"15,01 a 19 KG.","2,35","2,35","0,00",Eur / Kg. Vivo,,21-06-2010
+Cordero,"19,01 a 23 KG.","2,25","2,25","0,00",Eur / Kg. Vivo,,21-06-2010
+Cordero,"23,01 a 25,49 KG.","1,90","1,90","0,00",Eur / Kg. Vivo,,21-06-2010
+Cordero,"25,5 a 28 KG.","1,85","1,85","0,00",Eur / Kg. Vivo,,21-06-2010
+Cordero,"28,01 a 34 KG.","1,70","1,70","0,00",Eur / Kg. Vivo,,21-06-2010
+Oveja,Sacrificio,"2,00 / 15,00","2,00 / 15,00","0,00",Eur / Unidad,,21-06-2010
+Porcino blanco,Selecto,"1,27 / 1,28","1,28 / 1,29","0,01",Eur / Kg. Vivo,,21-06-2010
+Oveja,Vida,"54,00 / 66,00","54,00 / 66,00","0,00",Eur / Unidad,,21-06-2010
+Porcino blanco,Normal,"1,26 / 1,27","1,27 / 1,28","0,01",Eur / Kg. Vivo,,21-06-2010
+Porcino blanco,Graso,"1,28 / 1,29","1,29 / 1,30","0,01",Eur / Kg. Vivo,,21-06-2010
+Porcino blanco,Cerdas,"0,63 / 0,66","0,63 / 0,66","0,00",Eur / Kg. Vivo,,21-06-2010
+Lechón,Selecto,"44,00","44,00","0,00",Eur / Unidad,,21-06-2010
+Tostón, 4 A 6 Kg,"27,00","26,00","-1,00",Eur / Unidad,,21-06-2010
+Tostón,"6,01 A 8 Kg","29,00","28,00","-1,00",Eur / Unidad,,21-06-2010
+Porcino Ibérico,Bellota 160-170 Kg,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,21-06-2010
+Porcino Ibérico,Recebo 160-170 Kg,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,21-06-2010
+Porcino Ibérico,Pienso 150 Kg,"1,53 / 1,59","1,52 / 1,58","-0,01",Eur / Kg. Vivo,,21-06-2010
+Porcino Ibérico,Pienso 150 Kg extensivo,"1,59 / 1,65","1,58 / 1,64","-0,01",Eur / Kg. Vivo,,21-06-2010
+Porcino Ibérico,Lechones Hasta 23 Kg,"2,88 / 3,00","2,78 / 2,90","-0,10",Eur / Kg. Vivo,,21-06-2010
+Porcino Ibérico,Marranos 30 - 60 Kg,"2,14 / 2,24","2,09 / 2,19","-0,05",Eur / Kg. Vivo,,21-06-2010
+Porcino Ibérico,Primales,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,21-06-2010
+Porcino Ibérico,Tostones 5 - 7 Kg,"26,00 / 28,00","25,00 / 27,00","-1,00",Eur / Kg. Vivo,,21-06-2010
+Ternero cruzado,Extra macho,"2,75","2,78","0,03",Eur / Kg. Vivo,,21-06-2010
+Ternero cruzado,Extra hembra,"2,02","2,02","0,00",Eur / Kg. Vivo,,21-06-2010
+Ternero cruzado,Primera macho,"2,59","2,62","0,03",Eur / Kg. Vivo,,21-06-2010
+Porcino Ibérico,Reproductoras,"250,00 / 305,00","250,00 / 305,00","0,00",Eur / Kg. Vivo,,21-06-2010
+Ternero cruzado,Primera hembra,"1,93","1,93","0,00",Eur / Kg. Vivo,,21-06-2010
+Ternero cruzado,Segunda macho,"2,17","2,20","0,03",Eur / Kg. Vivo,,21-06-2010
+Ternero cruzado,Segunda hembra,"1,55","1,55","0,00",Eur / Kg. Vivo,,21-06-2010
+Ternero del país,Macho,"1,65","1,68","0,03",Eur / Kg. Vivo,,21-06-2010
+Ternero del país,Hembra,"0,00","0,00","0,00",Eur / Kg. Vivo,,21-06-2010
+Bovino menor 12 meses,Especial macho,"3,26","3,26","0,00",Eur / Kg. Canal,,21-06-2010
+Bovino menor 12 meses,Especial hembra  de 180 a 220 Kg.,"3,39","3,39","0,00",Eur / Kg. Canal,,21-06-2010
+Bovino menor 12 meses,Extra macho,"3,20","3,20","0,00",Eur / Kg. Canal,,21-06-2010
+Bovino menor 12 meses,Extra hembra   de 180 a 220 Kg.,"3,33","3,33","0,00",Eur / Kg. Canal,,21-06-2010
+Bovino menor 12 meses,Primera macho ,"3,02","3,02","0,00",Eur / Kg. Canal,,21-06-2010
+Bovino menor 12 meses,Primera hembra   de 180 a 220 Kg.,"3,24","3,24","0,00",Eur / Kg. Canal,,21-06-2010
+Bovino menor 12 meses,Segunda macho,"2,73","2,73","0,00",Eur / Kg. Canal,,21-06-2010
+Bovino menor 12 meses,Segunda hembra  de 180 a 220 Kg.,"3,15","3,15","0,00",Eur / Kg. Canal,,21-06-2010
+Ternera mayor 12 meses,Especial menor 270 Kg,"3,28","3,28","0,00",Eur / Kg. Canal,,21-06-2010
+Ternera mayor 12 meses,Especial mayor 270 Kg,"3,19","3,19","0,00",Eur / Kg. Canal,,21-06-2010
+Ternera mayor 12 meses,Extra menor  270 Kg,"3,25","3,25","0,00",Eur / Kg. Canal,,21-06-2010
+Ternera mayor 12 meses,Extra mayor 270 Kg,"3,13","3,13","0,00",Eur / Kg. Canal,,21-06-2010
+Ternera mayor 12 meses,Primera menor 270 Kg,"3,16","3,16","0,00",Eur / Kg. Canal,,21-06-2010
+Ternera mayor 12 meses,Primera mayor  270 Kg,"3,04","3,04","0,00",Eur / Kg. Canal,,21-06-2010
+Ternera mayor 12 meses,Segunda menor 270 Kg,"2,98","2,98","0,00",Eur / Kg. Canal,,21-06-2010
+Ternera mayor 12 meses,segunda mayor  270 Kg,"2,86","2,86","0,00",Eur / Kg. Canal,,21-06-2010
+Añojo,Especial menor 350 Kg,"3,18","3,18","0,00",Eur / Kg. Canal,,21-06-2010
+Añojo,Especial mayor 350 Kg,"3,09","3,09","0,00",Eur / Kg. Canal,,21-06-2010
+Añojo,Extra menor 350 Kg,"3,12","3,12","0,00",Eur / Kg. Canal,,21-06-2010
+Añojo,Extra mayor 350 Kg,"3,03","3,03","0,00",Eur / Kg. Canal,,21-06-2010
+Añojo,Primera menor 350 Kg,"3,00","3,00","0,00",Eur / Kg. Canal,,21-06-2010
+Añojo,Primera mayor 350 Kg,"2,87","2,87","0,00",Eur / Kg. Canal,,21-06-2010
+Añojo,Segunda menor 350 Kg,"2,75","2,75","0,00",Eur / Kg. Canal,,21-06-2010
+Añojo,Segunda mayor 350 Kg,"2,69","2,69","0,00",Eur / Kg. Canal,,21-06-2010
+Erales,Extra,"2,40","2,40","0,00",Eur / Kg. Canal,,21-06-2010
+Erales,Primera,"1,85","1,85","0,00",Eur / Kg. Canal,,21-06-2010
+Erales,Segunda,"1,37","1,37","0,00",Eur / Kg. Canal,,21-06-2010
+Novillos,Extra,"1,91","2,07","0,16",Eur / Kg. Canal,,21-06-2010
+Novillos,Primera,"1,37","1,77","0,40",Eur / Kg. Canal,,21-06-2010
+Novillos,Segunda,"0,89","1,29","0,40",Eur / Kg. Canal,,21-06-2010
+Toro,Extra,"2,07","2,07","0,00",Eur / Kg. Canal,,21-06-2010
+Toro,Primera,"1,77","1,77","0,00",Eur / Kg. Canal,,21-06-2010
+Toro,Segunda,"1,65","1,29","-0,36",Eur / Kg. Canal,,21-06-2010
+Vaca,Extra,"2,53","2,53","0,00",Eur / Kg. Canal,,21-06-2010
+Vaca,Primera,"2,13","2,13","0,00",Eur / Kg. Canal,,21-06-2010
+Vaca,Segunda,"1,80","1,80","0,00",Eur / Kg. Canal,,21-06-2010
+Vaca,Tercera,"1,59","1,59","0,00",Eur / Kg. Canal,,21-06-2010
+Vaca,Fábrica,"1,23","1,23","0,00",Eur / Kg. Canal,,21-06-2010
+Jamón Ibérico en Sangre,D. O. Guijuelo,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,21-06-2010
+Jamón Ibérico en Sangre,Bellota,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,21-06-2010
+Jamón Ibérico en Sangre,Cebo,"4,22 / 4,43","4,20 / 4,41","-0,02",Eur / Kg.,,21-06-2010
+Paleta Ibérica en Sangre,D. O. Guijuelo,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,21-06-2010
+Paleta Ibérica en Sangre,Bellota,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,21-06-2010
+Paleta Ibérica en Sangre,Cebo,"2,56 / 2,71","2,59 / 2,74","0,03",Eur / Kg.,,21-06-2010
+Magros,Extra,"3,41 / 3,61","3,41 / 3,61","0,00",Eur / Kg.,,21-06-2010
+Magros,Presa,"9,70 / 10,20","9,70 / 10,20","0,00",Eur / Kg.,,21-06-2010
+Magros,Secreto,"8,85 / 9,30","8,82 / 9,27","-0,03",Eur / Kg.,,21-06-2010
+Magros,Solomillo,"8,55 / 9,05","8,55 / 9,05","0,00",Eur / Kg.,,21-06-2010
+Magros,Pluma de lomo,"8,67 / 9,17","8,67 / 9,17","0,00",Eur / Kg.,,21-06-2010
+Despiece,Recorte Graso,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,21-06-2010
+Despiece,Lomo Bellota,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,21-06-2010
+Despiece,Lomo Cebo,"10,07 / 10,43","10,07 / 10,43","0,00",Eur / Kg.,,21-06-2010
+Despiece,Panceta a cuadro,"1,18 / 1,28","1,18 / 1,28","0,00",Eur / Kg.,,21-06-2010
+Despiece,Tocino de Lomo,"1,00 / 1,10","1,00 / 1,10","0,00",Eur / Kg.,,21-06-2010
+Despiece,Costillas (Peladas),"0,80 / 0,90","0,75 / 0,85","-0,05",Eur / Kg.,,21-06-2010
+Despiece,Grasas Industriales,"0,37 / 0,40","0,37 / 0,40","0,00",Eur / Kg.,,21-06-2010
+Despiece,Cabeza,"0,23 / 0,25","0,23 / 0,25","0,00",Eur / Kg.,,21-06-2010
