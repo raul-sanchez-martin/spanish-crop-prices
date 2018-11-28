@@ -1,0 +1,128 @@
+Producto,Categoría,Anterior,Último,Diferencia,Medida,Tendencia,Fecha
+Cereales,Trigo Blando p.e. > 72 kg/Hl,"186,00 / 0,00","189,00 / 0,00","3,00",Eur / Tm.,,20-08-2018
+Cereales,Cebada,"175,00 / 0,00","177,00 / 0,00","2,00",Eur / Tm.,,20-08-2018
+Cereales,Avena,"132,00 / 0,00","133,00 / 0,00","1,00",Eur / Tm.,,20-08-2018
+Cereales,Centeno,"161,00 / 0,00","162,00 / 0,00","1,00",Eur / Tm.,,20-08-2018
+Cereales,Triticale,"175,00 / 0,00","176,00 / 0,00","1,00",Eur / Kg. Vivo,,20-08-2018
+Cereales,Maíz,"192,00 / 0,00","192,00 / 0,00","0,00",Eur / Tm.,,20-08-2018
+Leguminosas,Garbanzo pedrosillano,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Tm.,,20-08-2018
+Leguminosas,Lenteja armuña D.O.,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Tm.,,20-08-2018
+Oleaginosas,Girasol,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Tm.,,20-08-2018
+Oleaginosas,Girasol A.O.,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Tm.,,20-08-2018
+Oleaginosas,Colza,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Tm.,,20-08-2018
+Forrajes,Forrajes (Avena),"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Tm.,,20-08-2018
+Oleaginosas,Guisantes,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Tm.,,20-08-2018
+Forrajes,Alfalfa empacada,"156,00 / 0,00","156,00 / 0,00","0,00",Eur / Tm.,,20-08-2018
+Forrajes,Veza henificada,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Tm.,,20-08-2018
+Forrajes,Paja paquete pequeño,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Tm.,,20-08-2018
+Forrajes,Paja paquete grande,"33,00 / 0,00","33,00 / 0,00","0,00",Eur / Tm.,,20-08-2018
+Lechazo,Extra,"5,80 / 0,00","5,85 / 0,00","0,05",Eur / Kg. Vivo,,20-08-2018
+Lechazo,Hasta 11 Kg,"5,55 / 0,00","5,60 / 0,00","0,05",Eur / Kg. Vivo,,20-08-2018
+Lechazo,"11,01 a 13 KG.","4,85 / 0,00","4,95 / 0,00","0,10",Eur / Kg. Vivo,,20-08-2018
+Lechazo,"13,01 a 15 KG.","4,10 / 0,00","4,20 / 0,00","0,10",Eur / Kg. Vivo,,20-08-2018
+Cordero,"15,01 a 19 KG.","3,05 / 0,00","3,05 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Cordero,"19,01 a 23 KG.","2,75 / 0,00","2,75 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Cordero,"23,01 a 25,49 KG.","2,70 / 0,00","2,70 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Cordero,"25,5 a 28 KG.","2,55 / 0,00","2,55 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Cordero,"28,01 a 34 KG.","2,45 / 0,00","2,45 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Cordero,+ de 34 KG.,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Porcino blanco,Selecto,"1,25 / 1,26","1,25 / 1,26","0,00",Eur / Kg. Vivo,,20-08-2018
+Oveja,Sacrificio,"25,00 / 55,00","25,00 / 55,00","0,00",Eur / Unidad,,20-08-2018
+Oveja,Vida,"80,00 / 100,00","80,00 / 100,00","0,00",Eur / Unidad,,20-08-2018
+Porcino blanco,Normal,"1,24 / 1,25","1,24 / 1,25","0,00",Eur / Kg. Vivo,,20-08-2018
+Porcino blanco,Graso,"1,37 / 1,38","1,37 / 1,38","0,00",Eur / Kg. Vivo,,20-08-2018
+Porcino blanco,Cerdas,"0,59 / 0,62","0,60 / 0,63","0,01",Eur / Kg. Vivo,,20-08-2018
+Lechón,Selecto,"30,00 / 0,00","30,00 / 0,00","0,00",Eur / Unidad,,20-08-2018
+Tostón, 4 A 6 Kg,"26,00 / 0,00","26,00 / 0,00","0,00",Eur / Unidad,,20-08-2018
+Tostón,"6,01 A 8 Kg","28,00 / 0,00","28,00 / 0,00","0,00",Eur / Unidad,,20-08-2018
+Porcino Ibérico,Bellota 100% IB,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Porcino Ibérico,Bellota 75% IB,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Porcino Ibérico,Bellota 50% IB,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Porcino Ibérico,Cebo de campo,"2,01 / 2,11","2,01 / 2,11","0,00",Eur / Kg. Vivo,,20-08-2018
+Porcino Ibérico,Cebo,"1,92 / 2,02","1,92 / 2,02","0,00",Eur / Kg. Vivo,,20-08-2018
+Porcino Ibérico,Lechones hasta 23 Kg (Gran partida),"4,25 / 4,67","4,23 / 4,65","-0,02",Eur / Kg. Vivo,,20-08-2018
+Porcino Ibérico,Lechones hasta 23 kg (Recogida),"3,54 / 4,12","3,52 / 4,10","-0,02",Eur / Kg. Vivo,,20-08-2018
+Porcino Ibérico,Marranos ibéricos puros,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Porcino Ibérico,Marranos ibéricos cruzados,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Porcino Ibérico,Primales ibérico puro,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Ternero cruzado,Extra macho,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Ternero cruzado,Extra hembra,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Porcino Ibérico,Primales ibérico cruzado,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Ternero cruzado,Primera macho,"3,32 / 0,00","3,32 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Porcino Ibérico,Tostones (5 - 8 Kg),"23,00 / 25,00","23,00 / 25,00","0,00",Eur / Unidad,,20-08-2018
+Ternero cruzado,Primera hembra,"2,38 / 0,00","2,38 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Porcino Ibérico,Tostones (9 - 12 Kg),"31,00 / 35,00","31,00 / 35,00","0,00",Eur / Unidad,,20-08-2018
+Ternero cruzado,Segunda macho,"2,56 / 0,00","2,56 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Porcino Ibérico,Reproductoras < de 6 meses,"250,00 / 350,00","250,00 / 350,00","0,00",Eur / Unidad,,20-08-2018
+Ternero cruzado,Segunda hembra,"1,99 / 0,00","1,99 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Porcino Ibérico,Reproductoras > de 6 meses,"380,00 / 430,00","380,00 / 430,00","0,00",Eur / Unidad,,20-08-2018
+Ternero del país,Macho,"1,83 / 0,00","1,83 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Ternero del país,Hembra,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg. Vivo,,20-08-2018
+Bovino menor 12 meses,Especial macho,"4,16 / 0,00","4,16 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Bovino menor 12 meses,Especial hembra  de 180 a 220 Kg.,"4,21 / 0,00","4,23 / 0,00","0,02",Eur / Kg. Canal,,20-08-2018
+Bovino menor 12 meses,Extra macho,"4,10 / 0,00","4,10 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Bovino menor 12 meses,Extra hembra   de 180 a 220 Kg.,"4,15 / 0,00","4,17 / 0,00","0,02",Eur / Kg. Canal,,20-08-2018
+Bovino menor 12 meses,Primera macho ,"3,89 / 0,00","3,89 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Bovino menor 12 meses,Primera hembra   de 180 a 220 Kg.,"4,06 / 0,00","4,08 / 0,00","0,02",Eur / Kg. Canal,,20-08-2018
+Bovino menor 12 meses,Segunda macho,"3,60 / 0,00","3,60 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Bovino menor 12 meses,Segunda hembra  de 180 a 220 Kg.,"3,94 / 0,00","3,96 / 0,00","0,02",Eur / Kg. Canal,,20-08-2018
+Ternera mayor 12 meses,Especial menor 270 Kg,"4,01 / 0,00","4,03 / 0,00","0,02",Eur / Kg. Canal,,20-08-2018
+Ternera mayor 12 meses,Especial mayor 270 Kg,"3,89 / 0,00","3,91 / 0,00","0,02",Eur / Kg. Canal,,20-08-2018
+Ternera mayor 12 meses,Extra menor  270 Kg,"3,98 / 0,00","4,00 / 0,00","0,02",Eur / Kg. Canal,,20-08-2018
+Ternera mayor 12 meses,Extra mayor 270 Kg,"3,83 / 0,00","3,85 / 0,00","0,02",Eur / Kg. Canal,,20-08-2018
+Ternera mayor 12 meses,Primera menor 270 Kg,"3,89 / 0,00","3,91 / 0,00","0,02",Eur / Kg. Canal,,20-08-2018
+Ternera mayor 12 meses,Primera mayor  270 Kg,"3,71 / 0,00","3,73 / 0,00","0,02",Eur / Kg. Canal,,20-08-2018
+Ternera mayor 12 meses,Segunda menor 270 Kg,"3,71 / 0,00","3,73 / 0,00","0,02",Eur / Kg. Canal,,20-08-2018
+Ternera mayor 12 meses,segunda mayor  270 Kg,"3,50 / 0,00","3,52 / 0,00","0,02",Eur / Kg. Canal,,20-08-2018
+Añojo,Especial menor 350 Kg,"4,05 / 0,00","4,05 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Añojo,Especial mayor 350 Kg,"4,02 / 0,00","4,02 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Añojo,Extra menor 350 Kg,"3,99 / 0,00","3,99 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Añojo,Extra mayor 350 Kg,"3,96 / 0,00","3,96 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Añojo,Primera menor 350 Kg,"3,84 / 0,00","3,84 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Añojo,Primera mayor 350 Kg,"3,77 / 0,00","3,77 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Añojo,Segunda menor 350 Kg,"3,59 / 0,00","3,59 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Añojo,Segunda mayor 350 Kg,"3,59 / 0,00","3,59 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Erales,Extra,"2,82 / 0,00","2,82 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Erales,Primera,"2,27 / 0,00","2,27 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Erales,Segunda,"1,76 / 0,00","1,76 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Novillos,Extra,"2,49 / 0,00","2,49 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Novillos,Primera,"2,19 / 0,00","2,19 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Novillos,Segunda,"1,67 / 0,00","1,67 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Toro,Extra,"2,43 / 0,00","2,43 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Toro,Primera,"2,01 / 0,00","2,01 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Toro,Segunda,"1,73 / 0,00","1,73 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Vaca,Extra,"3,28 / 0,00","3,28 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Vaca,Primera,"2,64 / 0,00","2,64 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Vaca,Segunda,"2,13 / 0,00","2,13 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Vaca,Tercera,"1,95 / 0,00","1,95 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Vaca,Fábrica,"1,71 / 0,00","1,71 / 0,00","0,00",Eur / Kg. Canal,,20-08-2018
+Jamón Ibérico en Sangre,Bellota 100% IB,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,20-08-2018
+Jamón Ibérico en Sangre,Bellota 75% IB,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,20-08-2018
+Jamón Ibérico en Sangre,Bellota 50% IB,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,20-08-2018
+Jamón Ibérico en Sangre,Cebo de campo,"6,63 / 7,13","6,63 / 7,13","0,00",Eur / Kg.,,20-08-2018
+Jamón Ibérico en Sangre,Cebo,"5,87 / 6,07","5,87 / 6,07","0,00",Eur / Kg.,,20-08-2018
+Paleta Ibérica en Sangre,Bellota 100 % IB,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,20-08-2018
+Paleta Ibérica en Sangre,Bellota 75 % IB,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,20-08-2018
+Paleta Ibérica en Sangre,Bellota 50 % IB,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,20-08-2018
+Paleta Ibérica en Sangre,Cebo de campo,"3,25 / 3,45","3,25 / 3,45","0,00",Eur / Kg.,,20-08-2018
+Paleta Ibérica en Sangre,Cebo,"3,00 / 3,20","3,00 / 3,20","0,00",Eur / Kg.,,20-08-2018
+Magros,Magro de Bellota,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,20-08-2018
+Magros,Extra,"2,90 / 3,00","2,90 / 3,00","0,00",Eur / Kg.,,20-08-2018
+Magros,Presa,"11,00 / 11,50","11,00 / 11,50","0,00",Eur / Kg.,,20-08-2018
+Magros,Presa Bellota,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,20-08-2018
+Magros,Secreto,"10,85 / 11,30","10,85 / 11,30","0,00",Eur / Kg.,,20-08-2018
+Magros,Barriguera,"3,40 / 3,60","3,40 / 3,60","0,00",Eur / Kg.,,20-08-2018
+Magros,Solomillo,"7,10 / 7,60","7,10 / 7,60","0,00",Eur / Kg.,,20-08-2018
+Magros,Pluma de lomo,"12,25 / 12,55","12,25 / 12,55","0,00",Eur / Kg.,,20-08-2018
+Magros,Carrillera,"6,02 / 6,22","6,02 / 6,22","0,00",Eur / Kg.,,20-08-2018
+Magros,Abanico,"5,80 / 5,90","5,80 / 5,90","0,00",Eur / Kg.,,20-08-2018
+Magros,Lagarto,"6,15 / 6,25","6,15 / 6,25","0,00",Eur / Kg.,,20-08-2018
+Magros,Tapilla,"5,70 / 5,80","5,70 / 5,80","0,00",Eur / Kg.,,20-08-2018
+Despiece,Lomo Bellota,"0,00 / 0,00","0,00 / 0,00","0,00",Eur / Kg.,,20-08-2018
+Despiece,Lomo Cebo de Campo,"5,95 / 6,20","5,95 / 6,20","0,00",Eur / Kg.,,20-08-2018
+Despiece,Lomo Cebo,"5,80 / 6,00","5,80 / 6,00","0,00",Eur / Kg.,,20-08-2018
+Despiece,Panceta a cuadro,"1,15 / 1,25","1,15 / 1,25","0,00",Eur / Kg.,,20-08-2018
+Despiece,Tocino de Lomo,"0,63 / 0,73","0,63 / 0,73","0,00",Eur / Kg.,,20-08-2018
+Despiece,Costillas (Peladas),"1,05 / 1,15","1,05 / 1,15","0,00",Eur / Kg.,,20-08-2018
+Despiece,Grasas Industriales,"0,25 / 0,30","0,25 / 0,30","0,00",Eur / Kg.,,20-08-2018
+Despiece,Cabeza,"0,25 / 0,27","0,25 / 0,27","0,00",Eur / Kg.,,20-08-2018
